@@ -26,7 +26,7 @@ I am **Fellah Abdelnour**, a final-year Computer Science Engineering student at 
 
 ### Back End :
 
-[![Backend](https://skillicons.dev/icons?i=nestjs,expressjs,fastapi)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=expressjs,fastapi)](https://skillicons.dev)
 
 
 
